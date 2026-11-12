@@ -75,4 +75,8 @@ For the best feel use bright, even front lighting: webcams drop to 15 fps in dim
 ## Ideas to level up your ML
 
 Stroke-sequence model (LSTM/Transformer) on QuickDraw raw data, fine-tune on your own
-air-drawn samples, confusion matrix, ONNX export, digit/letter recognition (EMNIST).
+air-drawn samples, confusion matrix, ONNX export, digit/letter recognition (EMNIST).                                                                         ## 🚗 AI Air Drawing Demo
+
+**Watch the AI recognize a car as it is drawn using a finger!**
+
+![Air Drawing AI](assets/air-drawing-car.gif)
