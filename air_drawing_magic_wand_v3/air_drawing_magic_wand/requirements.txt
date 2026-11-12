@@ -1,0 +1,7 @@
+opencv-python>=4.8
+numpy>=1.24
+pillow>=10.1
+mediapipe>=0.10.9
+# Needed for the ML brain (train.py + CNN prediction). Without it the app
+# still runs using the built-in shape recogniser.
+torch>=2.0
